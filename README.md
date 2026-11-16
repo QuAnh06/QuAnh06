@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./readmeprofile.gif" width="500" alt="My GIF Banner">
+</p>
+
 # Hey There! 👋
 **I'm Quang Anh** - I'm a fullstack developer, maker. I work on a ton of random projects in my free time.
 
