@@ -7,7 +7,7 @@
 
 Check out my [portfolio](https://portfolio-test-six-mocha.vercel.app/).
 
-[![SkillIcons](https://skillicons.dev/icons?i=git,npm,html,css,js,ts,php,py,cs,cpp,linux,boostrap,tailwind,laravel,reactjs,nodejs,nestjs,prisma,vue,opencv,mysql,postgres,prisma,docker,cloudflare,figma,ae,neovim,postman,sublime,ubuntu,unity)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=git,npm,html,css,js,ts,php,py,cs,cpp,linux,bootstrap,tailwind,laravel,reactjs,nodejs,nestjs,prisma,vue,opencv,mysql,postgres,prisma,docker,cloudflare,figma,ae,neovim,postman,sublime,ubuntu,unity)](https://skillicons.dev)<br/>
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
