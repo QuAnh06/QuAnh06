@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./readmeprofile.gif" width="500" alt="My GIF Banner">
+  <img src="./readmeprofile.gif" width="350" alt="My GIF Banner">
 </p>
 
 # Hey There! 👋
